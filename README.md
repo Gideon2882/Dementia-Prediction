@@ -21,7 +21,7 @@ Note that there are 1 original & 3 cleaned version of the dataset, which would b
 
 ## Problem
 Dataset: [Dementia Patient Health,Prescriptions ML Dataset](https://www.kaggle.com/datasets/kaggler2412/dementia-patient-health-and-prescriptions-dataset/data)  
-Context: Predict whether person has dementia by training classification models based on attributes mention in dataset.
+Context: Predict whether person has dementia by training classification models based on attributes mention in dataset.  
 Problem Definition: Are we able to predict dementia with based on its attributes and if so, can we find the most important attribute?
 
 ## Model Used
